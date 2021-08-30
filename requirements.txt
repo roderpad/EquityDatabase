@@ -1,5 +1,5 @@
 alpaca_trade_api
 psycopg2
 asyncpg
-asyncio
+aiohttp
 requests
